@@ -11,5 +11,7 @@ public class TestController {
     public static void main(String[] args) {
         System.out.println("测试controller");
         System.out.println("bracnch分支测试");
+        System.out.println("bracnch分支测试1");
+
     }
 }
