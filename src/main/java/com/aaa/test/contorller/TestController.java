@@ -7,7 +7,6 @@ package com.aaa.test.contorller;
  * createTime:2018-12-03 20:19:25
  */
 public class TestController {
-
     public static void main(String[] args) {
         System.out.println("测试controller");
         System.out.println("合并分支");
